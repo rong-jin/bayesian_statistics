@@ -102,19 +102,6 @@ Feel free to tweak hyper-parameters (`cand_sd`, prior settings, iteration counts
 
 ---
 
-## 4 Troubleshooting
-
-| Symptom                         | Likely cause                 | Fix                                                           |
-| ------------------------------- | ---------------------------- | ------------------------------------------------------------- |
-| `ModuleNotFoundError: arviz`    | Environment missing packages | Activate correct env or `pip/conda install arviz`             |
-| Blank plots in VS Code terminal | Non-interactive backend      | Ensure `matplotlib` auto-backend is enabled or use JupyterLab |
-| Slow plots / huge chains        | Iterations set to 100 k+     | Reduce `n_iter` while testing                                 |
-
----
-
-## 5 License
-
-Educational use only (MIT license). Feel free to adapt the notebooks for teaching or research; attribution appreciated.
 
 
 
