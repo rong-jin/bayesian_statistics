@@ -1,5 +1,8 @@
 # Bayesian MCMC Tutorials (Lessons 4 – 6)
 
+> These notebooks are study notes for the **[MCMC & Bayesian Statistics](https://www.coursera.org/learn/mcmc-bayesian-statistics/home/module/2)** course on Coursera.  
+> The original course examples are written in **R**; here they are fully **re-implemented in Python** for easier integration with the scientific-Python stack.
+
 This repository contains three Jupyter notebooks that walk through fundamental Markov-chain Monte-Carlo (MCMC) algorithms in Python:
 
 | Notebook | Topic | File |
