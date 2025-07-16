@@ -1,4 +1,4 @@
-# Bayesian MCMC Tutorials (Lessons 4 – 6)
+# Bayesian MCMC Notes (Lessons 4 – 6)
 
 > These notebooks are study notes for the **[Bayesian Statistics MCMC](https://www.coursera.org/learn/mcmc-bayesian-statistics/home/module/2)** on Coursera.  
 > The original course examples are written in **R**; here they are fully **re-implemented in Python** for easier integration with the scientific-Python stack.
