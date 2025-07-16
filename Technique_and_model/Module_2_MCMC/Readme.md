@@ -1,4 +1,3 @@
-````markdown
 # Bayesian MCMC Tutorials (Lessons 4 – 6)
 
 This repository contains three Jupyter notebooks that walk through fundamental Markov-chain Monte-Carlo (MCMC) algorithms in Python:
@@ -114,6 +113,5 @@ Feel free to tweak hyper-parameters (`cand_sd`, prior settings, iteration counts
 
 Educational use only (MIT license). Feel free to adapt the notebooks for teaching or research; attribution appreciated.
 
-```
 
 
