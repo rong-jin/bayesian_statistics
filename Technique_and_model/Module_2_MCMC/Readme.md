@@ -9,7 +9,7 @@ This repository contains three Jupyter notebooks that walk through fundamental M
 |----------|-------|------|
 | Lesson 4 | Random-Walk Metropolis–Hastings | `lesson4_metropolis_hastings_intro.ipynb` |
 | Lesson 5 | Gibbs Sampling for Normal–Inverse-Gamma | `lesson5_gibbs_sampling_intro.ipynb` |
-| Lesson 6 | Convergence Diagnostics (trace plots, ESS, R-hat …) | `lesson6_convergence_diagnostics_simplified_intro.ipynb` |
+| Lesson 6 | Convergence Diagnostics (trace plots, ESS, R-hat …) | `lesson6_convergence_diagnostics_intro.ipynb` |
 
 ---
 
